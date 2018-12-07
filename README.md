@@ -21,7 +21,7 @@ A basic project that creates an AWS EC2 instance and the security group and key-
 Required variables:
 
 * `region` - set the AWS region to work in
-* `pub_key_instance_path` - set path to the file containing the public key from which to create the EC key pair.
+* `pub_key_instance_path` - set path to the file containing the public key from which to create the EC2 key pair.
 * `instance_type` - set the EC2 instance type
 
 ### Manage resources
